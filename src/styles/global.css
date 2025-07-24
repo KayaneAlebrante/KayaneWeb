@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-neutral-onBackground text-neutral-onBackground font-sans;
+    -webkit-font-smoothing: antialiased;
+}
